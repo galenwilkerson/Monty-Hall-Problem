@@ -1,5 +1,8 @@
 # Monty Hall Problem
 
+<img src="./monty_hall.png" width="400" height="300">
+
+
 This repository contains a Jupyter Notebook that demonstrates and simulates the Monty Hall Problem, a famous probability puzzle based on a game show scenario.
 
 ## Introduction
